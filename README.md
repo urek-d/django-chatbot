@@ -10,6 +10,7 @@ Pour démarrer l'application, suivez les étapes ci-dessous :
 1) Assurez-vous d'avoir Python 3.7 installé sur votre machine.
 
 2)Créez un environnement virtuel en utilisant Virtualenv. Ouvrez une console et exécutez la commande suivante :virtualenv nom_de_votre_environnement
+
 3) Activez l'environnement virtuel. Selon votre système d'exploitation, utilisez la commande appropriée :
 -Sur Windows: nom_de_votre_environnement\Scripts\activate
 -Sur macOS et Linux : source nom_de_votre_environnement/bin/activate
